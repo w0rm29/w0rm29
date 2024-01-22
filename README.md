@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Maheshwari</h1>
-<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles</h3>
+<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles looking for full stack/backend/frontend summer internship role starting May 2024</h3>
 
 - I'm currently a student at **Rochester Institute of Technology**
 
