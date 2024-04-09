@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Maheshwari</h1>
-<h3 align="center">Software Engineer with a experience of 2+ years and a passion for technology and a strong understanding of programming principles looking for full stack/backend/frontend role starting May 2024</h3>
+<h3 align="center">Software Engineer with a experience of 2+ years and a passion for technology and a strong understanding of programming principles looking for full stack/backend/frontend role starting immediately</h3>
 
 - 🌱 I’m currently learning **MERN stack.**
 
