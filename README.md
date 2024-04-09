@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Maheshwari</h1>
-<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles looking for full stack/backend/frontend summer internship role starting May 2024</h3>
-
-- I'm currently a student at **Rochester Institute of Technology**
+<h3 align="center">Software Engineer with a experience of 2+ years and a passion for technology and a strong understanding of programming principles looking for full stack/backend/frontend role starting May 2024</h3>
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 👨‍💻 All of my projects are available at [beardbytes.github.io](beardbytes.github.io)
-
 - 💬 Ask me about **Python, Java, SQL, React, MongoDB, Ruby on Rails.**
 
-- 📫 Reach me at **am4768@rit.edu**
+- 📫 Reach me at **adi.maheshwari53@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-maheshwari-923865124/](https://www.linkedin.com/in/aditya-maheshwari-923865124/)
 
