@@ -7,8 +7,6 @@
 
 - 📫 Reach me at **adi.maheshwari53@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-maheshwari-923865124/](https://www.linkedin.com/in/aditya-maheshwari-923865124/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-maheshwari-923865124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="w0rm29" height="30" width="40" /></a>
